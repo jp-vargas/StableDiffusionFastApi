@@ -4,7 +4,7 @@ Stable Diffusion test with fastapi
 
 Create `token.txt` file and store the HuggingFace token (https://huggingface.co/)
 
-`source env3.1'/bin/activate`
+`source env'/bin/activate`
 
 `pip install`
 
